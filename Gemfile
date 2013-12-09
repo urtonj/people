@@ -39,7 +39,6 @@ group :test, :development do
 end
 
 gem 'haml'
-gem 'rails_12factor'
 
 # Use ActiveModel has_secure_password
 # gem 'bcrypt-ruby', '~> 3.0.0'
