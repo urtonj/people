@@ -39,6 +39,7 @@ group :test, :development do
 end
 
 gem 'haml'
+gem 'heroku'
 
 # Use ActiveModel has_secure_password
 # gem 'bcrypt-ruby', '~> 3.0.0'
